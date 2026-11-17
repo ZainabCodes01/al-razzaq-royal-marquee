@@ -1,0 +1,6 @@
+{
+  "name": "Al Razzaq Royal Marquee",
+  "description": "2026 luxury wedding and event marquee showcase for Al Razzaq Royal Marquee on Pasrur Road, Daska — featuring live event packages, royal menu builder, interactive Google Maps directions, and instant date booking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
